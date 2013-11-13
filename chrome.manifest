@@ -1,0 +1,3 @@
+content open-with chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://open-with/content/open-with.xul
+

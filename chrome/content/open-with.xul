@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<overlay id="sample"
+    xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <script type="application/javascript" src="chrome://open-with/content/open-with.js"/>
+    <menupopup id="mailContext">
+        <menu label="Open With">
+            <menupopup id="owMenuPopup">
+            </menupopup>
+        </menu>
+    </menupopup>
+</overlay>

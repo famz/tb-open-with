@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<vbox id="owOptions" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+        <setting title="Command Name 1" desc="Command Name 1" pref="extensions.open-with.command.name1" type="string" />
+        <setting title="Command Line 1" desc="Command Name 1" pref="extensions.open-with.command.action1" type="string" />
+
+        <setting title="Command Name 2" desc="Command Name 2" pref="extensions.open-with.command.name2" type="string" />
+        <setting title="Command Line 2" desc="Command Name 2" pref="extensions.open-with.command.action2" type="string" />
+
+        <setting title="Command Name 3" desc="Command Name 3" pref="extensions.open-with.command.name3" type="string" />
+        <setting title="Command Line 3" desc="Command Name 3" pref="extensions.open-with.command.action3" type="string" />
+</vbox>
