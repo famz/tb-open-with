@@ -4,6 +4,8 @@ Open Message With External Command
 Thunderbird Plugin: "Open with...". Open the mail messages with external
 program.
 
+![Screenshot](http://raw.github.com/famz/tb-open-with/master/chrome/content/screenshot.png)
+
 You can open the selected message(s) with an external command in the message
 context popup menu.
 
