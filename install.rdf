@@ -5,13 +5,23 @@
 
     <Description about="urn:mozilla:install-manifest">
         <em:id>open-with@famz.cn</em:id>
-        <em:name>Open Message With Command</em:name>
-        <em:version>0.3</em:version>
+        <em:name>Open Message With External Command</em:name>
+        <em:version>0.4</em:version>
         <em:type>2</em:type>
         <em:creator>Fam Zheng</em:creator>
-        <em:description>Open the selected message(s) with a user defined command.</em:description>
+        <em:description>
+You can open the selected message(s) with an external command in the message
+context popup menu.
+
+Define your commands in the extension configuration page.
+
+Select your messages in your message folder and right click your mouse, There's
+a new submenu "Open with" with your defined commands.
+        </em:description>
         <em:optionsURL>chrome://open-with/content/options.xul</em:optionsURL>
         <em:optionsType>2</em:optionsType>
+        <em:homepageURL>http://github.com/famz/tb-open-with</em:homepageURL>
+        <em:iconURL>chrome://open-with/content/icon.png</em:iconURL>
 
         <em:targetApplication>
             <Description>
